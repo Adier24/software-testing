@@ -1,0 +1,14 @@
+[
+  "test_app.py::test_ambos_campos_vacios",
+  "test_app.py::test_contrasena_con_espacios",
+  "test_app.py::test_contrasena_incorrecta",
+  "test_app.py::test_contrasena_vacia",
+  "test_app.py::test_login_exitoso",
+  "test_app.py::test_tiempo_reportado_por_el_sistema",
+  "test_app.py::test_tiempo_respuesta_login_exitoso",
+  "test_app.py::test_usuario_caracteres_especiales",
+  "test_app.py::test_usuario_con_espacios",
+  "test_app.py::test_usuario_inexistente",
+  "test_app.py::test_usuario_mayusculas",
+  "test_app.py::test_usuario_vacio"
+]
